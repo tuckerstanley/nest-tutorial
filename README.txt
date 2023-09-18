@@ -1,0 +1,1 @@
+In this repo, I did the Nest.js tutorial. I learned about Nest and about how it is used. Then I learned how to make controllers and what they are used for, learned about providers, and then learned the importance of modules, and how they can be used to make your code cleaner. The code can be found within src.
